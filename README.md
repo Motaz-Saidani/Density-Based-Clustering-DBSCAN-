@@ -1,0 +1,2 @@
+# Density-Based-Clustering-DBSCAN-
+DBSCAN stands for Density-Based Spatial Clustering of Applications with Noise. This technique is one of the most common clustering algorithms  which works based on density of object. i.e, if a particular point belongs to a cluster, it should be near to lots of other points in that cluster. In this notebook, the main focus is on manipulating the data and properties of DBSCAN and observing the resulting clustering.
